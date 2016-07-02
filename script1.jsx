@@ -60,6 +60,8 @@ paragraph = objJSON.paragraph;
 		}
 //$.writeln(myObject.a) ;
 
+//now we have the parsed json data. We will set the animation text layers input.
+
 var p = app.project;
 $.writeln(p.numItems);
 
